@@ -1,1 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+supabase
+langgraph
+langchain
+langchain_groq
+python-dotenv
 # Python dependencies
