@@ -1,1 +1,1 @@
-# GoFood-recommendation-system
+# GoFood AI Project
